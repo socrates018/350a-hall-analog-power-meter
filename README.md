@@ -3,6 +3,7 @@ A custom power meter designed in EasyEDA, supporting currents up to 350A. It pro
 The PCB is split into two Gerber files (front and back) to avoid the cost of multiple designs in one PCB.
 
 **2D Layout**
+![Back PCB (Underside)](2D_PCB1_BACK_LOGO.png)
 ![Front PCB](2D_PCB1_FRONT.png)  
 ![Back PCB](2D_PCB1_BACK.png)
 
